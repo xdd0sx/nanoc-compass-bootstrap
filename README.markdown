@@ -1,5 +1,5 @@
-Nanoc-Driven ToolKit for agile static-project development
-=========================================================
+Nanoc-Driven ToolKit for agile static-project development (NDTASPD)
+===================================================================
 
 Installation
 -----------
